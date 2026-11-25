@@ -8,3 +8,8 @@
    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=GEODE-AUTHOR-NAME/GEODE-PROJECT-NAME&type=date&legend=top-left" />
  </picture>
 </a>
+
+### Contributors:
+<a href = "https://github.com/GEODE-AUTHOR-NAME/GEODE-PROJECT-NAME/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=GEODE-AUTHOR-NAME/GEODE-PROJECT-NAME"/>
+</a>
